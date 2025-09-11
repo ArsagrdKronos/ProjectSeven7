@@ -47,36 +47,9 @@ Projekt jest rozwijany z myślą o edukacyjnym i etycznym wykorzystaniu, a jego 
 - `log/` – Folder na pliki logów (automatycznie tworzony).
 - `Email/` – Folder na logi email (automatycznie tworzony).
 - `README.md` – Ten plik z dokumentacją.
-
-## Jak Uruchomić
-
-1. Pobierz projekt do wybranego katalogu (np. `C:\Users\ARPdevil\Desktop\Seven7`).
-2. Zainstaluj zależności, jak opisano powyżej.
-3. Uruchom główny skrypt:
-
-
-4. Postępuj zgodnie z instrukcjami wyświetlanymi w menu (np. wybierz opcję 5, aby uruchomić sesję, lub 9 dla pomocy).
-
-## Twórca: ArsagrdKronos
-
-ArsagrdKronos to pseudonim twórcy projektu Seven7, pasjonata technologii i cyberbezpieczeństwa. Inspiracją dla ArsagrdKronosa jest głęboka fascynacja programowaniem oraz etycznym hackowaniem, co znajduje odzwierciedlenie w funkcjonalnościach Seven7. Twórca, pochodzący z kręgu entuzjastów open-source, dąży do tworzenia narzędzi edukacyjnych, które wspierają naukę bezpieczeństwa IT w sposób odpowiedzialny. ArsagrdKronos aktywnie eksperymentuje z nowymi technologiami, co czyni Seven7 projektem dynamicznie rozwijanym. Jego motto brzmi: "Bezpieczeństwo przez wiedzę, etyka ponad wszystko."
-
 ## Licencja
 
 Projekt jest udostępniony na zasadach [licencji MIT](LICENSE) (jeśli nie określono inaczej). Upewnij się, że używasz go zgodnie z obowiązującymi przepisami prawa i zasadami etyki.
 
-## Kontakt
-
-Jeśli masz pytania, sugestie lub chcesz zgłosić błąd, skontaktuj się z ArsagrdKronosem:
-- Email: [wstaw email, jeśli dostępny] (opcjonalne).
-- Platforma: [wstaw link, jeśli projekt jest hostowany, np. GitHub].
-
-## Wkład
-
-Zapraszamy do współpracy! Jeśli chcesz dodać nowe funkcje, poprawić kod lub zgłosić problem, otwórz issue lub wyślij pull request na platformie hostingowej projektu.
-
-## Historia Zmian
-
-- **09.09.2025, 23:46 CEST**: Utworzono i opublikowano pierwszą wersję `README.md`. Dodano opis projektu, wymagania, strukturę i informacje o twórcy.
-
 ---
+
